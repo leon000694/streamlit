@@ -7,7 +7,7 @@ def home():
 
 @app.route("/test")
 def test():
-	return "This is Test"
+	return "This is Test 2"
 
 if __name__=="__main__":
 	app.run()
