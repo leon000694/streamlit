@@ -1,1 +1,0 @@
-d:/python-training/env001/Scripts/python.exe d:/python-training/0_daily/BodyTmp/00_BodyTmp_check.py
